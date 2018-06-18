@@ -1,7 +1,8 @@
 {
   "name": "render-react-serialized",
   "version": "0.0.0",
-  "description": "",
+  "description": "renders react-serialized to a react DOM",
+  "keywords": ["react-serialized", "react"],
   "main": "main.cjs.js",
   "module": "main.js",
   "author": "",
